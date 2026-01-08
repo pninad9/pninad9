@@ -28,8 +28,7 @@ Tip: create an /assets/architecture/ folder in this repo and drop your diagrams 
 ---
 
 ## 🧠 About me
-I build **reliable, scalable data pipelines** and **analytics-ready models**—from raw ingestion to clean, governed Gold datasets.
-I enjoy **lakehouse patterns**, **incremental + idempotent loads**, **SCD modeling**, **data quality**, and making data usable for real stakeholders.
+I design and build **end-to-end data pipelines** that turn raw, messy data into **trusted, analytics-ready datasets**. I’m hands-on with **Azure/AWS, Databricks, Snowflake, ADF/Glue, Airflow, and dbt**, and I love shipping clean **Bronze/Silver/Gold** lakehouse models. My focus is on **incremental + idempotent loads**, **SCD2**, **data quality/testing**, and performance tuning. I enjoy working closely with stakeholders to make sure the data is not just available but **accurate, explainable, and useful**.
 
 - 📍 United Kingdom
 - 🔎 Actively exploring new opportunities (Data Engineering / Analytics Engineering / Data Analytics)
