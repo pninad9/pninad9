@@ -16,7 +16,7 @@ Tip: create an /assets/architecture/ folder in this repo and drop your diagrams 
 
 <p align="center">
   <b>Data Engineer</b> • <b>Analytics Engineer</b> • <b>Data Analyst</b> <br/>
-  Friendly, bold, and obsessed with turning messy data into trusted systems 🚀
+  I turn “where did this number come from?” into “yep, that’s correct.”
 </p>
 
 <p align="center">
